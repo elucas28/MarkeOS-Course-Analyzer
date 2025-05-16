@@ -1,21 +1,40 @@
-MIT License
+LICENÇA DE USO PROPRIETÁRIO - MARKEOS COURSE ANALYZER
+Copyright (c) 2025 Eduardo Lima Lucas
+CNPJ: 55.546.652/0001-18
+1. DEFINIÇÕES
+"Software" refere-se ao programa de computador MarkeOS Course Analyzer, incluindo, mas não se limitando a: código-fonte, código compilado, APIs, estruturas de dados, documentação, interfaces gráficas, e quaisquer trabalhos derivados.
+"Licenciante" refere-se a Eduardo Lima Lucas (CNPJ: 55.546.652/0001-18).
+"Usuário" refere-se à pessoa física ou jurídica que utiliza o Software sob os termos desta licença.
+2. CONCESSÃO DE LICENÇA
+O Licenciante concede ao Usuário uma licença limitada, não exclusiva, não transferível, não sublicenciável para uso do Software exclusivamente para fins internos, sujeita às seguintes restrições:
+3. RESTRIÇÕES
+3.1. O Usuário NÃO está autorizado a:
+a) Copiar, modificar, adaptar, traduzir ou criar trabalhos derivados do Software;
+b) Realizar engenharia reversa, descompilar, desmontar ou tentar de qualquer forma obter o código-fonte do Software;
+c) Remover, alterar ou obscurecer quaisquer avisos de direitos autorais, marcas registradas ou outros avisos de propriedade do Software;
+d) Usar o Software para desenvolver produtos ou serviços concorrentes;
+e) Sublicenciar, alugar, emprestar, transferir ou disponibilizar o Software a terceiros;
+f) Usar o Software para processar dados ou fornecer serviços a terceiros na modalidade de serviço (SaaS);
+g) Publicar ou divulgar a terceiros quaisquer resultados de testes de desempenho ou análises comparativas do Software sem autorização prévia por escrito do Licenciante.
+3.2. Qualquer tentativa de realizar qualquer uma das ações acima constitui uma violação dos direitos do Licenciante.
+4. PROPRIEDADE INTELECTUAL
+4.1. O Software, incluindo, sem limitação, todo o conteúdo, código, dados e materiais associados, todos os direitos de propriedade intelectual relacionados, são de propriedade exclusiva do Licenciante.
+4.2. Esta licença não transfere ao Usuário qualquer direito de propriedade sobre o Software.
+5. TÉRMINO
+5.1. Esta licença permanecerá em vigor até ser rescindida pelo Licenciante ou pelo Usuário.
+5.2. O Licenciante pode rescindir esta licença imediatamente se o Usuário violar qualquer um dos seus termos.
+5.3. No término desta licença, o Usuário deve cessar todo uso do Software e destruir todas as cópias, completas ou parciais, do Software.
+6. GARANTIAS E RESPONSABILIDADES
+6.1. O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIAS DE QUALQUER TIPO, EXPRESSAS OU IMPLÍCITAS, INCLUINDO, MAS NÃO SE LIMITANDO A, GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM DETERMINADO FIM E NÃO VIOLAÇÃO.
+6.2. EM NENHUMA CIRCUNSTÂNCIA O LICENCIANTE SERÁ RESPONSÁVEL POR QUAISQUER DANOS DIRETOS, INDIRETOS, INCIDENTAIS, ESPECIAIS, EXEMPLARES OU CONSEQUENCIAIS (INCLUINDO, MAS NÃO SE LIMITANDO A, AQUISIÇÃO DE BENS OU SERVIÇOS SUBSTITUTOS, PERDA DE USO, DADOS OU LUCROS, OU INTERRUPÇÃO DE NEGÓCIOS) CAUSADOS E SOB QUALQUER TEORIA DE RESPONSABILIDADE, SEJA EM CONTRATO, RESPONSABILIDADE OBJETIVA OU DELITO (INCLUINDO NEGLIGÊNCIA OU OUTRO) DECORRENTE DE QUALQUER FORMA DO USO DESTE SOFTWARE, MESMO SE AVISADO DA POSSIBILIDADE DE TAIS DANOS.
+7. LEI APLICÁVEL
+7.1. Esta licença será regida e interpretada de acordo com as leis da República Federativa do Brasil, sem considerar conflitos de disposições legais.
+7.2. Qualquer disputa decorrente ou relacionada a esta licença será submetida à jurisdição exclusiva dos tribunais da comarca onde está estabelecido o Licenciante.
+8. DISPOSIÇÕES GERAIS
+8.1. Se qualquer disposição desta licença for considerada inexequível ou inválida, tal disposição será alterada e interpretada para atingir os objetivos da disposição original na medida máxima permitida pela lei, e as disposições restantes permanecerão em pleno vigor e efeito.
+8.2. Esta licença constitui o acordo integral entre o Licenciante e o Usuário com relação ao assunto aqui tratado e substitui todos os acordos anteriores ou contemporâneos, escritos ou orais, com relação a esse assunto.
+8.3. Qualquer renúncia a qualquer direito sob esta licença só terá efeito se por escrito e assinada pela parte renunciante.
 
-Copyright (c) 2025 elucas28
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Todos os direitos reservados a Eduardo Lima Lucas (CNPJ: 55.546.652/0001-18).
+Este software e sua documentação são propriedade exclusiva de Eduardo Lima Lucas, protegidos por leis de propriedade intelectual brasileiras e tratados internacionais.
+Para obter permissões adicionais ou diferentes termos de licenciamento, entre em contato com o Licenciante.
